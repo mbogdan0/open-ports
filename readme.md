@@ -1,0 +1,1 @@
+A small script that helps to find open ports of a given host.
